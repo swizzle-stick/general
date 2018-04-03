@@ -1,4 +1,4 @@
-<img src="resources/oasis-op-logo.png" />
+<img src="resources/oasis-op-logo.png" width="25%" height="25%" />
 
 ## <img src="resources/swiz-logo.jpg" width="50" height="50" /> Swizzle Stick
 
