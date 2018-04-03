@@ -14,9 +14,9 @@ The proposers of the Swizzle Stick expect to advance the SS-API portion of the p
 # Repositories and Licenses
 Swizzle Stick will initially launch with two repositories:
 
--        swizzle-stick-stem will create the long, skinny working portion of the project
+- swizzle-stick-stem will create the long, skinny working portion of the project
 
--        swizzle-stick-head will create the tools needed for customizing the top with the sorts of decorative devices to tickle the sense of humor of drinkers everywhere.
+- swizzle-stick-head will create the tools needed for customizing the top with the sorts of decorative devices to tickle the sense of humor of drinkers everywhere.
 
 All repositories will be governed by the Apache License v2.0.
 
