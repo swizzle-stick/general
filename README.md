@@ -1,6 +1,6 @@
 <img src="resources/oasis-op-logo.png" width="50%" height="50%" />
 
-## <img src="resources/swiz-logo.jpg" width="50" height="50" /> Swizzle Stick
+# <img src="resources/swiz-logo.jpg" width="50" height="50" /> Swizzle Stick
 
 Swizzle Stick is a colorful, compact parallelogram, typically (but not exclusively) polymer-based, optimized for mixing liquids of differing viscosities and specific gravities while also providing whimsical flourishes that contribute to the beverage consumer’s sense of enjoyment. Swizzle Stick is interoperable with all consumable fluids and most cocktail receptacles.
 
