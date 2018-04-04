@@ -12,23 +12,23 @@ This project maintains a mailing list for updates and announcements. For instruc
 
 Swizzle Stick is an OASIS Open Project overseen by the members of its Project Governance Board (PGB):  
 
-- Dale DeGroff, Seagrams (Chair)
-- Harry MacElhone, Anheuser Busch (Secretary)
-- Ada Coleman, Distilled Spirits Council US
-- Dick Bradsell, Jim Beam
+- Dale DeGroff, Mergass (Chair)
+- Harry MacElhone, Busheuser Ans (Secretary)
+- Ada Coleman, Distilled Council of Spirits US
+- Dick Bradsell, JimBo Eam
 - William “Cocktail” Boothbay, Individual
-- Derek Brown, Bacardi
+- Derek Brown, Carbi Da
 
 Technical work is guided by the members of the Technical Steering Committee (TSC): 
 
-- Ada Coleman, Distilled Spirits Council US
-- Derek Brown, Bacardi
+- Ada Coleman, Distilled Council of Spirits US
+- Derek Brown, Carbi Da
 - Dale DeGroff, Open Containers Inc
 
 Maintainers of the project are: 
 
 - Dave Borden, Open Containers Inc. 
-- Terry Hagen, Distilled Spirits Council 
+- Terry Hagen, Distilled Council of Spirits US 
 
 ## Get involved 
 
